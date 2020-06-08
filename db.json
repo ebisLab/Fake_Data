@@ -1,1 +1,6 @@
-{ id: 1, name: "Molly", year: 2020 }
+export const mock = [
+  { id: 1, name: "Molly", year: 2020 },
+  { id: 2, name: "Arthur", year: 2019 },
+  { id: 3, name: "Dumbledore", year: 2020 },
+  { id: 4, name: "Gideon", year: 2010 }
+];
