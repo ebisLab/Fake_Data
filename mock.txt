@@ -1,0 +1,93 @@
+[
+{
+"id": "7",
+"createdAt": "2020-06-17T18:44:27.933Z",
+"name": "First1 Last1",
+"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/demersdesigns/128.jpg",
+"email": "first1@mail.com",
+"amount": "665",
+"amount3": [
+{
+"timesubmitted": 1592424129014,
+"balance": "15 kids yay"
+},
+{
+"timesubmitted": 1592424134781,
+"balance": "now go away"
+},
+{
+"timesubmitted": 1592606419529,
+"balance": "35"
+}
+],
+"cohort": 2009,
+"imageUrl": "https://unsplash.it/100?image=1",
+"place": [
+{
+"id": "1",
+"userId": "7",
+"createdAt": "2020-06-17T12:34:02.024Z",
+"city": "Port Shanna",
+"zip": "33079-6356"
+},
+{
+"id": "3",
+"userId": "7",
+"createdAt": "2020-06-16T22:01:02.139Z",
+"city": "Reedstad",
+"zip": "15708"
+}
+]
+},
+{
+"id": "10",
+"createdAt": "2020-06-17T19:43:48.059Z",
+"name": "First2 Last2",
+"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/levisan/128.jpg",
+"email": "first2@mail.com",
+"amount": 0,
+"amount3": [],
+"cohort": 2010,
+"imageUrl": "https://unsplash.it/100?image=2",
+"place": [
+{
+"id": "2",
+"userId": "10",
+"createdAt": "2020-06-17T07:08:40.314Z",
+"city": "East Casimirchester",
+"zip": "33627"
+},
+{
+"id": "4",
+"userId": "10",
+"createdAt": "2020-06-17T07:17:15.744Z",
+"city": "Kuhlmanside",
+"zip": "97876"
+}
+]
+},
+{
+"id": "12",
+"createdAt": "2020-06-17T13:18:51.302Z",
+"name": "First3 Last3",
+"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/myastro/128.jpg",
+"email": "first3@mail.com",
+"amount": 0,
+"amount3": [],
+"cohort": 2009,
+"imageUrl": "https://unsplash.it/100?image=3",
+"place": []
+},
+{
+"id": "14",
+"createdAt": "2020-06-17T09:55:37.936Z",
+"name": "First4 Last4",
+"avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/evanshajed/128.jpg",
+"email": "first4@mail.com",
+"amount": 0,
+"amount3": [],
+"cohort": 2011,
+"imageUrl": "https://unsplash.it/100?image=4",
+"place": []
+}
+]
